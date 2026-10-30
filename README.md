@@ -21,7 +21,7 @@ The analysis revealed the following:
 - **Total Bills**: $8,053,143.
 - **Paid Amount**: $4,468,527.
 - **Average Insurance Coverage**: 82%
-- **Outstanding Payment**: Pending payments amounted to $2,082,786, while partially paid bills amounted to $1,401,830.
+- **Payment Status**: The dashboard shows the proportion of bills that have been paid, partially paid and are still pending.
 
   ## Dashboard Chart Analysis
   1. **Payment Status**: Shows the distribution of paid, partially paid, and pending bills.
