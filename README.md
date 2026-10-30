@@ -12,4 +12,4 @@ The dataset was provided for learning and analysis purposes.
 ![Hospital Dashboard](Dashboard_Image.png)
 
 ## Project Cover
-![Hospital Data Analytics Project](Introductory Image.jpeg)
+![Hospital Data Analytics Project](Introductory%20Image.jpeg)
