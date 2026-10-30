@@ -23,7 +23,7 @@ The analysis revealed the following:
 - **Total Bills**: $8,053,143.
 - **Paid Amount**: $4,468,527.
 - **Average Insurance Coverage**: 82%
-- **Payment Status**: The dashboard shows the proportion of bills that have been paid, partially paid and are still pending.
+- **Payment Status**: The analysis highlights the different payment categories, including fully paid, partially paid and pending bills.
 
   ## Dashboard Chart Analysis
   1. **Payment Status**: Shows the distribution of paid, partially paid, and pending bills.
