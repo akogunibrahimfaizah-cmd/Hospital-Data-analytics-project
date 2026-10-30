@@ -29,6 +29,6 @@ The analysis revealed the following:
   3. **Age Category**: Shows how patients are distributed across different age groups.
   4. **Gender Distribution**: Presents the proportion of male and female patients.
   5. **Admission Trend**: Shows changes in patient admissions over time.
-  6. ## Conclusion
-  7. This project demonstrates how Microsoft Excel can be used to organize, analyze and visualize hospital data. The dashboard provides useful information about patient demographics, admissions, departmental activities and financial performance. These insights can support better monitoring, planning and decision making in healthcare management.
+   ## Conclusion
+   This project demonstrates how Microsoft Excel can be used to organize, analyze and visualize hospital data. The dashboard provides useful information about patient demographics, admissions, departmental activities and financial performance. These insights can support better monitoring, planning and decision making in healthcare management.
  **Tools Used**: Microsoft Excel(data analysis, PivotTables, charts, dashboard design and slicers).
