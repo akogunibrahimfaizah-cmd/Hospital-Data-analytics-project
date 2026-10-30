@@ -1,3 +1,4 @@
+
 # Hospital Patient and Billing Analytics Dashboard**
 ## Introduction
 This project focuses on analyzing hospital patient and billing data using Microsoft Excel. The dashboard provides insights into patient admissions, hospital departments, billing, insurance coverage and payment status.
@@ -9,3 +10,6 @@ The dataset was provided for learning and analysis purposes.
 
 ## Dashboard Preview
 ![Hospital Dashboard](Dashboard_Image.png)
+
+## Project Cover
+![Hospital Data Analytics Project](Introductory_Image.jpeg)
